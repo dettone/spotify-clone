@@ -25,7 +25,7 @@ export function Slidebar() {
 
                 <button className="flex itens-center space-x-2 hover:text-white">
                     <PlusCircleIcon className="h-5 w-5" />
-                    <p>Create Playlist</p>
+                    <p>Create Playlists</p>
                 </button>
 
                 <button className="flex itens-center space-x-2 hover:text-white">
