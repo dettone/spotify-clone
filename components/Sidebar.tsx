@@ -25,7 +25,7 @@ export function Slidebar() {
 
                 <button className="flex itens-center space-x-2 hover:text-white">
                     <PlusCircleIcon className="h-5 w-5" />
-                    <p>Create Playlists</p>
+                    <p>Create Playlist</p>
                 </button>
 
                 <button className="flex itens-center space-x-2 hover:text-white">
@@ -40,6 +40,18 @@ export function Slidebar() {
                 <hr className="border-t-[0.1px] border-gray-900" />
 
                 {/* Playlist*/}
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                <p className="cursor-pointer hover:text-white"> Playlist name..</p>
+                
             </div>
         </div>
     )
